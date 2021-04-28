@@ -1,4 +1,4 @@
-Hola mi nombre es Jose bienvenidos
+# Hola mi nombre es Jose bienvenidos
 Desarrollador FullStack, decidido a seguir avanzando en el mundo de la tecnología, 
 me gusta aprender cosas nuevas, siempre enfocadas en el desarrollo de software. 
 he desarrollado conocimientos en tecnologias para el desarrollo web tales como 
